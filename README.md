@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a software development engineer with a strong foundation in programming and a passion for creating efficient and user-friendly software solutions. Currently pursuing a Master's in Computer Science at Indiana University Bloomington with a perfect GPA of 4.0, I specialize in developing and optimizing software using Java, Spring Boot, JavaScript, React.js, and Agile Methodologies.
+I am a software development engineer with a strong foundation in programming and a passion for creating efficient and user-friendly software solutions. Currently pursuing a Master's in Computer Science at Indiana University Bloomington, I specialize in developing and optimizing software using Java, Spring Boot, JavaScript, React.js, and Agile Methodologies.
 
 * 🌍  I'm based in Bloomington, Indiana.
 * 🖥️  See my portfolio at [manojKumarJala](http://manojkumarjala-portfolio.vercel.app/)
